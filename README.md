@@ -1,4 +1,4 @@
-#Please get Google Translator Web Extension First :)
+# Please get Google Translator Web Extension First :)
 
 # Research
 
