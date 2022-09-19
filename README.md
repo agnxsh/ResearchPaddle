@@ -1,3 +1,5 @@
+#Please get Google Translator Web Extension First :)
+
 # Research
 
 发布基于飞桨的前沿研究工作，包括CV、NLP、KG、STDM等领域的顶会论文和比赛冠军模型。
